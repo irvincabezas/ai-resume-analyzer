@@ -4,23 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="037cae97-7d14-40e6-846a-50f392ee34be" name="Changes" comment="Added types and Support Card files">
-      <change afterPath="$PROJECT_DIR$/app/components/ATS.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/Accordion.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/Details.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/FileUploader.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/ScoreBadge.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/ScoreGauge.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/components/Summary.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/lib/pdf2img.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/lib/puter.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/lib/utils.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/auth.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/resume.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/upload.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes/wipe.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/routes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/types/puter.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/app/types/puter.d.ts" afterDir="false" />
+    <list default="true" id="037cae97-7d14-40e6-846a-50f392ee34be" name="Changes" comment="Components added, also added authentication">
+      <change beforePath="$PROJECT_DIR$/app/root.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/root.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/routes/upload.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/routes/upload.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -97,7 +83,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757353368622</updated>
-      <workItem from="1757353369735" duration="8744000" />
+      <workItem from="1757353369735" duration="12259000" />
     </task>
     <task id="LOCAL-00001" summary="Added asset files">
       <option name="closed" value="true" />
@@ -139,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757370880076</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Components added, also added authentication">
+      <option name="closed" value="true" />
+      <created>1757375015474</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1757375015474</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,6 +182,7 @@
     <MESSAGE value="Modified CSS file" />
     <MESSAGE value="Fixed home and added Navbar" />
     <MESSAGE value="Added types and Support Card files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added types and Support Card files" />
+    <MESSAGE value="Components added, also added authentication" />
+    <option name="LAST_COMMIT_MESSAGE" value="Components added, also added authentication" />
   </component>
 </project>
